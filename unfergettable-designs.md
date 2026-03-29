@@ -50,66 +50,110 @@ Contact: john.ferguson@unfergettabledesigns.com
 
 ---
 
-## 1. Offer Creation Engine
+## Integrated Offer Ladder
 
-### SECTION 1: Value Ladder
+### Complete Value Ladder with Upsell Paths
 
-| Tier | Price | Positioning |
-|------|-------|-------------|
-| Starter | $97 | DIY starter kit + audit |
-| Core | $1,500-3,000 | Basic website (5 pages, Astro) |
-| Premium | $4,000-15,000+ | Essential/Growth (CMS, custom features) |
+```
+                    ┌─────────────────────────────────────┐
+                    │         STARTER KIT ($97)           │
+                    │   • Accessibility checklist         │
+                    │   • Performance guide               │
+                    │   • SEO quick-start                 │
+                    │   • 30-min consultation             │
+                    └──────────────┬──────────────────────┘
+                                   │ Buy + 7 days
+                                   ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│                         BASIC WEBSITE ($1,500-3,000)                │
+│    • 5 pages (Astro)  • WCAG AA  • Cloudflare  • 1hr support       │
+│    • Mobile responsive  • SEO  • Weekly backups                    │
+└──────────────────────────────┬───────────────────────────────────────┘
+                                 │ Project complete
+                                 ▼
+┌───────────────────────────────────────────────────────────────────────┐
+│                     ESSENTIAL WEBSITE ($4,000-7,000)                 │
+│    • 10 pages  • Sanity CMS  • Custom Svelte  • 2hr support         │
+│    • Priority hosting  • Backend monitoring                         │
+└──────────────────────────────┬────────────────────────────────────────┘
+                                 │
+                                 ▼
+┌───────────────────────────────────────────────────────────────────────┐
+│                       GROWTH WEBSITE ($8,000-15,000+)                │
+│    • 15+ pages  • E-commerce  • API integrations  • 3hr support     │
+│    • Enterprise Cloudflare  • Daily backups                         │
+└───────────────────────────────────────────────────────────────────────┘
+          │                          │                         │
+          │ Any project              │ Any project            │
+          ▼                          ▼                         ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                   MAINTENANCE RETAINER                                │
+│    Basic: $69/mo  │  Essential: $169/mo  │  Growth: $329/mo          │
+│    • Proactive monitoring  • Weekly/daily backups  • Support hours   │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-### SECTION 2: Deliverables
+### Deliverables by Tier
 
-**Starter ($97):**
-1. Website Starter Kit (templates + guides)
-2. 30-minute consultation call
-3. SEO audit of existing site
-4. Accessibility checklist
-5. Performance optimization tips
+**Starter Kit ($97) - Digital Product (Gumroad)**
+1. Website Accessibility Checklist (WCAG AA quick-reference)
+2. Performance Optimization Guide (Core Web Vitals)
+3. SEO Quick-Start PDF (meta tags, schema, keywords)
+4. Website Timeline Template (planning tool)
+5. 30-minute strategy call (zoom)
+6. Link to Basic package: $200 discount code: STARTER200
 
-**Core ($1,500-3,000):**
+**Basic Website ($1,500-3,000)**
 1. 5 static pages (Astro)
 2. Up to 500 words per page
 3. Prebuilt components
 4. Mobile/responsive design
 5. Basic SEO optimization
-6. WCAG AA compliance
+6. WCAG AA compliance included
 7. Weekly backups
 8. 1hr/month support
 9. Frontend error monitoring
 10. Cloudflare CDN/SSL
+11. 30% non-profit discount available
 
-**Premium ($4,000-15,000+):**
-1. 10-15+ pages (Astro + Svelte/SvelteKit)
-2. Sanity CMS integration
-3. Custom Svelte components
-4. 1-hour CMS training
-5. Priority hosting
-6. Frontend + Backend monitoring
-7. 2-3hrs/month support
-8. 4-12 hour response time
-9. Weekly/Daily backups
-10. Enterprise Cloudflare
-11. E-commerce integration (Growth tier)
-12. API integrations (Growth tier)
+**Essential Website ($4,000-7,000)**
+1. Everything in Basic
+2. 10 pages (Astro + Svelte)
+3. Sanity CMS integration
+4. Custom Svelte components
+5. 1-hour CMS training session
+6. Priority hosting
+7. Frontend + Backend monitoring
+8. 2hrs/month support
+9. 12-hour response time SLA
 
-### SECTION 3: Upsell Sequences
+**Growth Website ($8,000-15,000+)**
+1. Everything in Essential
+2. 15+ pages
+3. E-commerce integration
+4. API integrations
+5. Enterprise Cloudflare
+6. Advanced error monitoring
+7. Daily backups
+8. 3hrs/month support
+9. 4-hour response time SLA
 
-**Starter → Core:**
-- "Love the starter kit? Let us build your site." (Email after 7 days)
-- Bundle: $200 off Core when you buy Starter
+### Upsell Sequences
 
-**Core → Essential:**
-- "Need a CMS to update content yourself?" (After 30 days)
-- Sanity CMS integration upgrade
+**Starter Kit → Basic:**
+- Day 3: "Love the starter kit? Let us build it for you. Use code STARTER200 for $200 off."
+- Day 7: Email with case study of similar project
+- Day 14: "Half-price audit when you upgrade to Basic"
 
-**Any Tier → Maintenance:**
-- "Keep your site running smoothly" (At project completion)
-- Maintenance retainer: $69-329/month
+**Basic/Essential/Growth → Maintenance:**
+- At project handoff: "Keep your site running smoothly"
+- Month 1 check-in: "Add maintenance for just $69/month"
+- Month 3: "Quarterly optimization review available"
 
-### SECTION 4: Launch Timeline
+**Referral Loop:**
+- Any tier: "Refer a client, get $200 credit toward your next project or 1 month free maintenance"
+
+### Launch Timeline
 
 | Week | Milestone |
 |------|-----------|
