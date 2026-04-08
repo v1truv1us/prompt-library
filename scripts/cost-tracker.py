@@ -311,12 +311,27 @@ def parse_opencode_sessions():
                 "model": None,
                 "date": None,
                 "session_id": row["session_id"],
+                "prompt_preview": None,
             }
             
             # Convert timestamp to date
             if row["time_created"]:
                 dt = datetime.fromtimestamp(row["time_created"] / 1000)
                 session_data["date"] = dt.strftime("%Y-%m-%d")
+            
+            # Get prompt preview from first user message with summary
+            cursor3 = conn.cursor()
+            cursor3.execute("""
+                SELECT json_extract(data, '$.summary.body')
+                FROM message
+                WHERE session_id = ?
+                AND json_extract(data, '$.role') = 'user'
+                AND json_extract(data, '$.summary.body') IS NOT NULL
+                LIMIT 1
+            """, (row["session_id"],))
+            prompt_row = cursor3.fetchone()
+            if prompt_row and prompt_row[0]:
+                session_data["prompt_preview"] = str(prompt_row[0])[:100]
             
             # Get all messages for this session with usage data
             cursor2 = conn.cursor()
