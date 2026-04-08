@@ -1,0 +1,18 @@
+{
+  "username": "john.ferguson@unfergettabledesigns.com",
+  "password": "0O_EfdhS9W4mUky9evs9_w",
+  "imap_host": "127.0.0.1",
+  "imap_port": 1143,
+  "days_back": 1,
+  "clients": {
+    "Stanfill Consulting": {
+      "emails": ["jennifer@stanfillconsulting.com"]
+    },
+    "HSNN": {
+      "emails": ["svillegas@hsnn.net", "cheri@hsnn.net"]
+    },
+    "Spring Creek Baptist Church": {
+      "emails": ["scbaptist89815@gmail.com"]
+    }
+  }
+}

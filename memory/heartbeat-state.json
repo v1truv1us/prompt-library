@@ -1,0 +1,13 @@
+{
+  "lastChecks":{
+    "gmail_manage":"2026-04-08T11:57:00",
+    "protonmail_review":"2026-04-08T11:57:00",
+    "protonmail_discovery":"2026-04-06T22:57:00",
+    "cost_tracker":"2026-04-08T01:10:00"
+  },
+  "notes":{
+    "protonmail_review":"Daily check for client emails",
+    "protonmail_discovery":"Weekly check for new potential clients",
+    "cost_tracker":"Weekly cost summary for coding harnesses"
+  }
+}

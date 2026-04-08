@@ -1024,6 +1024,27 @@ Perform monthly checkup for client website:
 
 ---
 
+## OpenClaw Skills (Automated)
+
+These prompts have been converted to OpenClaw Skills with tool access:
+
+| Skill | Purpose | Usage |
+|------|--------|-------|
+| `headstart-newsletter` | Add newsletter PDFs to site | `/headstart-newsletter April 2026` |
+| `headstart-staff` | Update staff directory | `/headstart-staff add director --name "..."` |
+| `ud-monthly-updates` | SEO, deps, lighthouse, content audits | `/ud-monthly-updates all full` |
+
+Skills live in `~/.openclaw/skills/` and can:
+- Read/write files directly
+- Run commands (lighthouse, git, etc.)
+- Send reports to Discord
+
+**When to use Skills vs Prompts:**
+- **Skills**: Recurring tasks that need file/tool access (newsletters, staff, monthly audits)
+- **Prompts**: One-off tasks, sharing with others, using outside OpenClaw
+
+---
+
 ## Usage Tips
 
 1. **Copy the prompt** that matches your task
@@ -1036,6 +1057,7 @@ Perform monthly checkup for client website:
 | Version | Date | Changes |
 |---------|------|---------|
 | v1 | 2026-04-07 | Initial prompt library |
+| v1.1 | 2026-04-08 | Added OpenClaw skills section, converted to skills |
 
 ---
 
