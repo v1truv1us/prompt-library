@@ -18,6 +18,7 @@ Battle-tested prompts for recurring tasks. Version controlled like code.
 4. [Research & Analysis](#research--analysis)
 5. [Content Creation](#content-creation)
 6. [Code Review](#code-review)
+7. [Client Work & Recurring Updates](#client-work--recurring-updates)
 
 ---
 
@@ -771,6 +772,254 @@ Check for:
 
 ### Recommendations
 [Prioritized list of security improvements]
+```
+
+---
+
+## Client Work & Recurring Updates
+
+### `headstart-newsletter` v1
+**Purpose:** Create monthly newsletter content for Head Start program website
+
+```
+Create the monthly newsletter for Elko Head Start:
+
+## Month/Year
+[INSERT - e.g., "April 2026"]
+
+## Content to Include
+[INSERT - events, announcements, dates, etc.]
+
+## Newsletter Structure
+
+### File Locations
+- English: `src/content/docs/en/newsletter-[month]-[year].mdx`
+- Spanish: `src/content/docs/es/newsletter-[month]-[year].mdx`
+
+### Required Sections
+
+1. **Header/Title**
+   - "Head Start News - [Month Year]" (EN)
+   - "Noticias de Head Start - [Mes Año]" (ES)
+
+2. **Upcoming Events**
+   - Date, time, location
+   - Brief description
+   - Who should attend
+
+3. **Important Dates**
+   - School closures
+   - Registration deadlines
+   - Parent meetings
+
+4. **Highlights**
+   - Student achievements
+   - Classroom activities
+   - Community partnerships
+
+5. **Reminders**
+   - What parents need to do
+   - Documents needed
+   - Deadlines
+
+6. **Contact Information**
+   - Phone, email, address
+   - Office hours
+
+## Localization Guidelines
+- Translate meaning, not word-for-word
+- Use culturally appropriate language for Spanish version
+- Keep dates in consistent format
+- Ensure all names/places are accurate in both versions
+
+## Output
+Generate:
+1. English newsletter (newsletter-[month]-[year].mdx)
+2. Spanish newsletter (newsletter-[month]-[year].mdx)
+3. Summary of key dates for calendar update
+4. Social media snippet (optional)
+```
+
+---
+
+### `headstart-calendar-update` v1
+**Purpose:** Update Head Start calendar with new events
+
+```
+Update the Elko Head Start calendar with new events:
+
+## New Events to Add
+[INSERT - list of events with dates, times, descriptions]
+
+## Events to Remove/Update
+[INSERT - any changes to existing events]
+
+## File Location
+`src/content/calendar/` or appropriate calendar data file
+
+## Calendar Entry Format
+```yaml
+- title: "[Event Name]"
+  titleEs: "[Nombre del Evento]"
+  date: YYYY-MM-DD
+  time: "HH:MM AM/PM"
+  location: "[Location]"
+  locationEs: "[Ubicación]"
+  description: "[Brief description]"
+  descriptionEs: "[Breve descripción]"
+  audience: "[Who should attend]"
+  audienceEs: "[Quién debe asistir]"
+```
+
+## Output
+1. Updated calendar data file
+2. List of new events added
+3. List of events removed/modified
+4. iCal feed update (if applicable)
+```
+
+---
+
+### `unfergettable-monthly-update` v1
+**Purpose:** Monthly content and portfolio updates for UnFergettable Designs
+
+```
+Perform monthly updates for UnFergettable Designs website:
+
+## Update Type
+[ ] Portfolio additions
+[ ] Testimonials
+[ ] Services/pricing
+[ ] Blog content
+[ ] Team updates
+[ ] Other: [specify]
+
+## New Content to Add
+[INSERT - describe what needs to be added/updated]
+
+## Update Checklist
+
+### Portfolio Projects
+For each new project:
+- Project name & client (if public)
+- Services provided
+- Technologies used
+- Project description (2-3 sentences)
+- Outcomes/results (metrics if available)
+- Images/screenshots (specify what's needed)
+- Testimonial (if available)
+
+File location: `src/content/work/` or portfolio collection
+
+### Testimonials
+- Client name (or anonymous)
+- Project type
+- Quote
+- Rating (if applicable)
+
+File location: `src/content/testimonials/`
+
+### Services/Pricing
+- Service name
+- Description
+- Starting price (if public)
+- Package options
+
+File location: Check `src/pages/services` or content config
+
+### Blog Posts
+- Title
+- Topic/category
+- Target keywords
+- Call to action
+
+File location: `src/content/blog/`
+
+## SEO Considerations
+- Include relevant keywords naturally
+- Add alt text for new images
+- Update meta descriptions if pages change
+- Check internal links
+
+## Output
+1. List of files created/updated
+2. Summary of changes
+3. Preview URLs to check
+4. Any missing assets (images, client approval, etc.)
+5. Deploy command or PR ready
+```
+
+---
+
+### `client-site-checkup` v1
+**Purpose:** Monthly health check for client websites
+
+```
+Perform monthly checkup for client website:
+
+## Client
+[INSERT - client name/site]
+
+## Site URL
+[INSERT - production URL]
+
+## Checkup Tasks
+
+### 1. Functionality
+- [ ] Homepage loads correctly
+- [ ] Contact form works
+- [ ] All links work (no 404s)
+- [ ] Images load
+- [ ] Mobile responsive
+
+### 2. Performance
+- [ ] Run Lighthouse audit
+- [ ] Check Core Web Vitals
+- [ ] Note any slowdowns
+
+### 3. Content Freshness
+- [ ] Is content up to date?
+- [ ] Any outdated information?
+- [ ] Blog/news needs update?
+
+### 4. Security
+- [ ] SSL certificate valid
+- [ ] Dependencies up to date
+- [ ] No known vulnerabilities
+
+### 5. SEO
+- [ ] Check Google Search Console
+- [ ] Any crawl errors?
+- [ ] Rankings stable?
+
+### 6. Analytics
+- [ ] Traffic trends (up/down/stable)
+- [ ] Any anomalies?
+- [ ] Conversion rates
+
+## Output Format
+
+### Summary
+[Overall health: Good/Needs Attention/Critical]
+
+### Issues Found
+| Priority | Issue | Recommended Action |
+|----------|-------|-------------------|
+| [High/Medium/Low] | [description] | [what to do] |
+
+### Metrics
+- Performance score: [X/100]
+- Accessibility score: [X/100]
+- SEO score: [X/100]
+- Best practices: [X/100]
+
+### Action Items
+1. [ ] [immediate fix needed]
+2. [ ] [schedule for next update]
+3. [ ] [monitor but not urgent]
+
+### Client Communication
+[Draft brief update for client if notable issues or improvements]
 ```
 
 ---
