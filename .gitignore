@@ -1,5 +1,9 @@
 node_modules/
 .env
 
+# Runtime state
+.solo/
+.openclaw/
+
 # Allow README.md files
 !**/README.md
