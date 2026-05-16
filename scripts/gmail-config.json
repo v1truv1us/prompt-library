@@ -1,0 +1,111 @@
+{
+  "accounts": {
+    "johncferguson90@gmail.com": {
+      "credentials_file": "~/.config/gws/johncferguson90.json",
+      "purpose": "personal"
+    },
+    "snobord4life@gmail.com": {
+      "credentials_file": "~/.config/gws/snobord4life.json",
+      "purpose": "personal"
+    }
+  },
+  "labels": {
+    "Clients": {
+      "color": "#fad165",
+      "description": "Client-related emails"
+    },
+    "Orders": {
+      "color": "#16a765",
+      "description": "Online orders and shipping"
+    },
+    "Bills": {
+      "color": "#cc3d21",
+      "description": "Bills and invoices"
+    },
+    "Travel": {
+      "color": "#4986e7",
+      "description": "Travel and reservations"
+    },
+    "Newsletters": {
+      "color": "#16a765",
+      "description": "Newsletters and marketing"
+    },
+    "Social": {
+      "color": "#8e63ce",
+      "description": "Social media and networking"
+    },
+    "Finance": {
+      "color": "#e96530",
+      "description": "Banking and financial"
+    },
+    "Jobs": {
+      "color": "#cf62b0",
+      "description": "Job opportunities and recruitment"
+    },
+    "GitHub": {
+      "color": "#414141",
+      "description": "GitHub notifications"
+    },
+    "Subscriptions": {
+      "color": "#16a765",
+      "description": "Subscription services"
+    }
+  },
+  "rules": {
+    "Clients": {
+      "domains": ["@client.com", "@company.com"],
+      "keywords": ["client", "project", "deadline", "deliverable"],
+      "senders": []
+    },
+    "Orders": {
+      "domains": ["amazon.com", "ebay.com", "shopify.com", "stripe.com"],
+      "keywords": ["order", "shipped", "delivery", "tracking", "receipt", "invoice"],
+      "senders": ["orders@", "shipping@", "receipts@"]
+    },
+    "Bills": {
+      "domains": ["electric", "gas", "water", "utility"],
+      "keywords": ["bill", "payment due", "invoice", "statement"],
+      "senders": ["billing@", "invoices@", "payments@"]
+    },
+    "Travel": {
+      "domains": ["airline", "hotel", "booking.com", "expedia.com", "airbnb.com"],
+      "keywords": ["reservation", "booking", "flight", "check-in", "itinerary"],
+      "senders": ["reservations@", "bookings@"]
+    },
+    "Newsletters": {
+      "domains": ["newsletter", "mailchimp.com", "substack.com", "medium.com"],
+      "keywords": ["unsubscribe", "newsletter", "weekly digest"],
+      "senders": ["newsletter@", "noreply@", "updates@"]
+    },
+    "Social": {
+      "domains": ["facebook.com", "twitter.com", "linkedin.com", "instagram.com"],
+      "keywords": [],
+      "senders": ["notification@", "alerts@"]
+    },
+    "Finance": {
+      "domains": ["bank", "chase.com", "wellsfargo.com", "paypal.com"],
+      "keywords": ["transaction", "balance", "deposit", "withdrawal"],
+      "senders": ["alerts@", "notifications@"]
+    },
+    "Jobs": {
+      "domains": ["indeed.com", "linkedin.com", "glassdoor.com"],
+      "keywords": ["job", "position", "opportunity", "interview", "resume"],
+      "senders": ["jobs@", "recruiting@", "careers@"]
+    },
+    "GitHub": {
+      "domains": ["github.com", "noreply.github.com"],
+      "keywords": ["pull request", "issue", "commit", "repository"],
+      "senders": ["notifications@github.com", "noreply@github.com"]
+    },
+    "Subscriptions": {
+      "domains": ["netflix.com", "spotify.com", "apple.com", "google.com"],
+      "keywords": ["subscription", "renewal", "membership"],
+      "senders": ["subscriptions@", "membership@"]
+    }
+  },
+  "auto_archive_after_days": {
+    "Newsletters": 30,
+    "Social": 14,
+    "Orders": 90
+  }
+}

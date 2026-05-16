@@ -1,0 +1,15 @@
+{
+  "username": "your-protonmail-address@proton.me",
+  "password": "your-bridge-password-from-protonmail-app",
+  "imap_host": "127.0.0.1",
+  "imap_port": 1143,
+  "days_back": 1,
+  "clients": {
+    "Client Name 1": {
+      "emails": ["client1@theircompany.com", "contact@theircompany.com"]
+    },
+    "Client Name 2": {
+      "emails": ["client2@domain.com"]
+    }
+  }
+}

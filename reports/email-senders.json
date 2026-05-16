@@ -1,0 +1,667 @@
+{
+  "senders": {
+    "coolify@fergify.work": {
+      "from": "\"John Ferguson\" <coolify@fergify.work>",
+      "domain": "fergify.work",
+      "count": 22,
+      "subjects": [
+        "Coolify: [ACTION REQUIRED] 14 server patches available on localhost",
+        "Coolify: [ACTION REQUIRED] 6 server patches available on localhost",
+        "Coolify: Deployment failed of ferg-cod3s/jferguson.info:main."
+      ]
+    },
+    "tropicalsmoothie_at_marketing_tropicalsmoothie_com_vw5g77y5ty_f2525fbc@privaterelay.appleid.com": {
+      "from": "\"Tropical Smoothie Cafe\"\r\n <tropicalsmoothie_at_marketing_tropicalsmoothie_com_vw5g77y5ty_f2525fbc@privaterelay.appleid.com>",
+      "domain": "privaterelay.appleid.com",
+      "count": 13,
+      "subjects": [
+        "LAST CALL to lift Cherry Berry Protein \ud83e\udd64\ud83d\udcaa",
+        "Meal planning? We\u2019ll take it from here \ud83c\udf7d\ufe0f",
+        "John, you just unlocked a new reward!"
+      ]
+    },
+    "noreply@notify.cloudflare.com": {
+      "from": "\"Cloudflare\" <noreply@notify.cloudflare.com>",
+      "domain": "notify.cloudflare.com",
+      "count": 11,
+      "subjects": [
+        "[Cloudflare]: sandandsagebrush.com is now active on a Cloudflare Free plan",
+        "[Cloudflare]: Your Cloudflare account has been accessed from a new IP Address",
+        "[Cloudflare]: Your Cloudflare account has been accessed from a new IP Address"
+      ]
+    },
+    "jennifer@stanfillconsulting.com": {
+      "from": "\"Jennifer Sprout\" <jennifer@stanfillconsulting.com>",
+      "domain": "stanfillconsulting.com",
+      "count": 11,
+      "subjects": [
+        "FW: Website",
+        "Re: Website",
+        "Re: Website"
+      ]
+    },
+    "noreply@md.getsentry.com": {
+      "from": "\"Sentry\" <noreply@md.getsentry.com>",
+      "domain": "md.getsentry.com",
+      "count": 10,
+      "subjects": [
+        "Weekly Report for UnFergettable Designs: December 25th, 2023 - January 1st, 2024",
+        "Replays quota 80% depleted",
+        "Action Required - Replay Capacity Depleted"
+      ]
+    },
+    "finance@fergify.work": {
+      "from": "\"John Ferguson\" <finance@fergify.work>",
+      "domain": "fergify.work",
+      "count": 8,
+      "subjects": [
+        "Invoice 0005 was viewed by Elizabeth Stanfill",
+        "Payment was made by Stanfill Consulting",
+        "Invoice 0006 was created for Stanfill Consulting"
+      ]
+    },
+    "hello@mail.grammarly.com": {
+      "from": "\"Grammarly\" <hello@mail.grammarly.com>",
+      "domain": "mail.grammarly.com",
+      "count": 6,
+      "subjects": [
+        "Uh oh \u2013 you might be logged out.",
+        "Hm, no writing activity last week?",
+        "New year sale: $75 for a year of Premium"
+      ]
+    },
+    "mail@mail.adobe.com": {
+      "from": "\"Adobe Acrobat\" <mail@mail.adobe.com>",
+      "domain": "mail.adobe.com",
+      "count": 5,
+      "subjects": [
+        "Goodbye, disorganized life",
+        "Strike the right chord with a PDF",
+        "E-signatures \u2705 PDF tools \u2705"
+      ]
+    },
+    "no-reply@notify.proton.me": {
+      "from": "\"Proton\" <no-reply@notify.proton.me>",
+      "domain": "notify.proton.me",
+      "count": 5,
+      "subjects": [
+        "Done! Proton completed your contacts import",
+        "[NOTICE] Your custom domain unfergettabledesigns.com is verified and active",
+        "Customize your email and add your team"
+      ]
+    },
+    "businessprofile-noreply@google.com": {
+      "from": "\"Google Business Profile\" <businessprofile-noreply@google.com>",
+      "domain": "google.com",
+      "count": 5,
+      "subjects": [
+        "Sand and Sagebrush Salon and Spa, your performance report for December 2023",
+        "Krystal left a review for Sand and Sagebrush Salon and Spa",
+        "Daniela left a review for Sand and Sagebrush Salon and Spa"
+      ]
+    },
+    "no-reply@email.claude.com": {
+      "from": "\"Claude Team\" <no-reply@email.claude.com>",
+      "domain": "email.claude.com",
+      "count": 4,
+      "subjects": [
+        "New: Claude Code channels, scheduled tasks, and more",
+        "New: Let Claude Code keep working while you\u2019re away",
+        "Using third-party harnesses with your Claude subscription"
+      ]
+    },
+    "f3rg@sentry.server": {
+      "from": "\"John Ferguson\" <f3rg@sentry.server>",
+      "domain": "sentry.server",
+      "count": 4,
+      "subjects": [
+        "Sentry down",
+        "Sentry recovered",
+        "Sentry down"
+      ]
+    },
+    "noreply@email.apple.com": {
+      "from": "\"Morgan Ferguson\" <noreply@email.apple.com>",
+      "domain": "email.apple.com",
+      "count": 4,
+      "subjects": [
+        "\u201cHip injection\u201d added to \u201cHome\u201d calendar.",
+        "\u201cNo church service\u201d added to \u201cHome\u201d calendar.",
+        "\u201cTalk therapy appointment\u201d added to \u201cHome\u201d calendar."
+      ]
+    },
+    "hello@builder.io": {
+      "from": "\"Builder.io Team\" <hello@builder.io>",
+      "domain": "builder.io",
+      "count": 3,
+      "subjects": [
+        "Wrapping up 2023, modern CSS features you can use today, and a detailed guide to",
+        "You're invited to Turn Figma Designs into Commerce Experiences with AI webinar o",
+        "Use intercepting routes in Next.js 14, learn :has() and hover transitions in CSS"
+      ]
+    },
+    "noreply@neo4j.com": {
+      "from": "\"Alexander Erdl, Neo4j\" <noreply@neo4j.com>",
+      "domain": "neo4j.com",
+      "count": 3,
+      "subjects": [
+        "This Week in Neo4j: Best of 2023 and more",
+        "This Week in Neo4j: AI, LangChain, Knowledge Graphs, RAG and more",
+        "This Week in Neo4j: LLM, Vectors, Recommendations, Knowledge Graphs and more"
+      ]
+    },
+    "news@team.semrush.com": {
+      "from": "\"Semrush Academy\" <news@team.semrush.com>",
+      "domain": "team.semrush.com",
+      "count": 3,
+      "subjects": [
+        "Fast-track your marketing growth in 2024",
+        "The Google ranking factors to keep your eye on",
+        "January product updates"
+      ]
+    },
+    "svillegas@hsnn.net": {
+      "from": "\"Stacy Valdespino\" <svillegas@hsnn.net>",
+      "domain": "hsnn.net",
+      "count": 3,
+      "subjects": [
+        "RE: January Newsletter",
+        "Re: Images for Head Start",
+        "Re: Images for Head Start"
+      ]
+    },
+    "no-reply@em-s.dropbox.com": {
+      "from": "\"Dropbox\" <no-reply@em-s.dropbox.com>",
+      "domain": "em-s.dropbox.com",
+      "count": 3,
+      "subjects": [
+        "Did you know Dropbox has\u2026",
+        "Which new (free) feature will you try first?",
+        "There\u2019s a plan for everyone"
+      ]
+    },
+    "feross@socket.dev": {
+      "from": "\"Feross Aboukhadijeh\" <feross@socket.dev>",
+      "domain": "socket.dev",
+      "count": 3,
+      "subjects": [
+        "Socket Weekly: 3/16 \u2013 3/20",
+        "Socket Weekly: 3/23 \u2013 3/27",
+        "Socket Weekly: 3/30\u2013 4/03"
+      ]
+    },
+    "hello_at_kinedu_com_k4fyk7ckss_8c4165e6@privaterelay.appleid.com": {
+      "from": "\"Ana from kinedu\"\r\n <hello_at_kinedu_com_k4fyk7ckss_8c4165e6@privaterelay.appleid.com>",
+      "domain": "privaterelay.appleid.com",
+      "count": 3,
+      "subjects": [
+        "Special Limited Time ABCmouse Offer! \ud83d\udc2d",
+        "ABCmouse Special Offer! \ud83d\udc2d",
+        "Congrats! Your baby is 47 months old today"
+      ]
+    },
+    "learn@sentry.io": {
+      "from": "\"The Sentry Team\" <learn@sentry.io>",
+      "domain": "sentry.io",
+      "count": 2,
+      "subjects": [
+        "Making your JavaScript project less noisy",
+        "Know why your frontend is slow"
+      ]
+    },
+    "cheri@hsnn.net": {
+      "from": "\"Cheri Moring\" <cheri@hsnn.net>",
+      "domain": "hsnn.net",
+      "count": 2,
+      "subjects": [
+        "RE: January Newsletter",
+        "RE: January Newsletter"
+      ]
+    },
+    "no-reply@email.github.com": {
+      "from": "\"GitHub\" <no-reply@email.github.com>",
+      "domain": "email.github.com",
+      "count": 2,
+      "subjects": [
+        "Webinar: Transforming application security with AI",
+        "Last chance to register: Transforming application security with AI"
+      ]
+    },
+    "no-reply@accounts.google.com": {
+      "from": "\"Google\" <no-reply@accounts.google.com>",
+      "domain": "accounts.google.com",
+      "count": 2,
+      "subjects": [
+        "Security alert",
+        "Security alert"
+      ]
+    },
+    "no-reply@zoom.us": {
+      "from": "\"Zoom\" <no-reply@zoom.us>",
+      "domain": "zoom.us",
+      "count": 2,
+      "subjects": [
+        "Reminder: Defender Fridays starts in 1 hour",
+        "Reminder: Defender Fridays starts in 1 hour"
+      ]
+    },
+    "team@moonshot.ai": {
+      "from": "\"Kimi by Moonshot AI\" <team@moonshot.ai>",
+      "domain": "moonshot.ai",
+      "count": 2,
+      "subjects": [
+        "Payments now powered by Stripe",
+        "Why Cloudflare is betting on Kimi K2.5"
+      ]
+    },
+    "sentry@fergify.work": {
+      "from": "\"John Ferguson\" <sentry@fergify.work>",
+      "domain": "fergify.work",
+      "count": 2,
+      "subjects": [
+        "Weekly Report for UnFergettable Designs: March 14th, 2026 - March 21st, 2026",
+        "Weekly Report for UnFergettable Designs: March 14th, 2026 - March 21st, 2026"
+      ]
+    },
+    "scbaptist89815@gmail.com": {
+      "from": "\"Spring Creek Baptist Church\" <scbaptist89815@gmail.com>",
+      "domain": "gmail.com",
+      "count": 2,
+      "subjects": [
+        "Re: Email on ShareFaith",
+        "Re: Email on ShareFaith"
+      ]
+    },
+    "developer@insideapple.apple.com": {
+      "from": "\"Apple Developer\" <developer@insideapple.apple.com>",
+      "domain": "insideapple.apple.com",
+      "count": 2,
+      "subjects": [
+        "Save the date: Apple Worldwide Developers Conference 2026",
+        "Updated Apple Developer Program License Agreement Now Available"
+      ]
+    },
+    "marketing@em.linearb.io": {
+      "from": "\"LinearB Team\" <marketing@em.linearb.io>",
+      "domain": "em.linearb.io",
+      "count": 2,
+      "subjects": [
+        "Your AI tools are shipping code. Do you know if it\u2019s working?",
+        "Here\u2019s what you missed: Demo on measuring AI impact"
+      ]
+    },
+    "newsletter_at_notifications_lumosity_com_h4jk5sf5zd_b4ff4381@privaterelay.appleid.com": {
+      "from": "\"Dr. Bob from Lumosity\" <newsletter_at_notifications_lumosity_com_h4jk5sf5zd_b4ff4381@privaterelay.appleid.com>",
+      "domain": "privaterelay.appleid.com",
+      "count": 2,
+      "subjects": [
+        "\ud83d\udca1\ud83e\udde0 Does city life impact cognition?",
+        "\ud83d\udca1\ud83e\udde0 Do we hear with our ears or our brain?"
+      ]
+    },
+    "info@hello.confluent.io": {
+      "from": "\"Confluent\" <info@hello.confluent.io>",
+      "domain": "hello.confluent.io",
+      "count": 2,
+      "subjects": [
+        "Thank you for your interest in The Top 6 Reasons Kafka Projects Fail (and How to",
+        "New to Apache Kafka\u00ae? Here\u2019s where to start."
+      ]
+    },
+    "api@team.z.ai": {
+      "from": "\"Z.ai API Team\" <api@team.z.ai>",
+      "domain": "team.z.ai",
+      "count": 2,
+      "subjects": [
+        "GLM-5-Turbo is Now Enabled for All Coding Plan Users",
+        "GLM-5.1 to ALL GLM Coding Plan users!"
+      ]
+    },
+    "no_reply@email.apple.com": {
+      "from": "\"Apple\" <no_reply@email.apple.com>",
+      "domain": "email.apple.com",
+      "count": 2,
+      "subjects": [
+        "Your receipt from Apple.",
+        "Your receipt from Apple."
+      ]
+    },
+    "notifications@stripe.com": {
+      "from": "\"Stripe\" <notifications@stripe.com>",
+      "domain": "stripe.com",
+      "count": 2,
+      "subjects": [
+        "Your $74.40 payout for UnFergettable Designs LLC is on the way",
+        "Add a backup email to your account"
+      ]
+    },
+    "no-reply@promos.pluralsight.com": {
+      "from": "\"Pluralsight\" <no-reply@promos.pluralsight.com>",
+      "domain": "promos.pluralsight.com",
+      "count": 1,
+      "subjects": [
+        "50% off ends tomorrow"
+      ]
+    },
+    "payments-noreply@google.com": {
+      "from": "\"Google Payments\" <payments-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "Google Workspace: Your invoice is available for unfergettabledesigns.com"
+      ]
+    },
+    "azure@email.microsoft.com": {
+      "from": "\"Microsoft Azure Team\" <azure@email.microsoft.com>",
+      "domain": "email.microsoft.com",
+      "count": 1,
+      "subjects": [
+        "Learn 4 ways AI can help you today!"
+      ]
+    },
+    "legal@sentry.io": {
+      "from": "\"The Sentry Team\" <legal@sentry.io>",
+      "domain": "sentry.io",
+      "count": 1,
+      "subjects": [
+        "[Update] Sentry Terms of Service"
+      ]
+    },
+    "domains-noreply@google.com": {
+      "from": "\"Google Domains\" <domains-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "Your unfergettabledesigns.com registration will renew in 7 days"
+      ]
+    },
+    "marketing@emailfb.freshbooks.com": {
+      "from": "\"FreshBooks\" <marketing@emailfb.freshbooks.com>",
+      "domain": "emailfb.freshbooks.com",
+      "count": 1,
+      "subjects": [
+        "\u23f0 It\u2019s not too late: Get 60% off FreshBooks"
+      ]
+    },
+    "drive-shares-dm-noreply@google.com": {
+      "from": "\"Jennifer Sprout (via Google Drive)\" <drive-shares-dm-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "Folder shared with you: \"ECVA Website\""
+      ]
+    },
+    "no-reply@calendar.proton.me": {
+      "from": "\"Proton\" <no-reply@calendar.proton.me>",
+      "domain": "calendar.proton.me",
+      "count": 1,
+      "subjects": [
+        "Done! Proton completed your calendars import"
+      ]
+    },
+    "hello@visily.ai": {
+      "from": "\"Cassie from Visily\" <hello@visily.ai>",
+      "domain": "visily.ai",
+      "count": 1,
+      "subjects": [
+        "Closing the Year with Visily: 2023 Reflections, Enhanced Features, and December "
+      ]
+    },
+    "workspace-noreply@google.com": {
+      "from": "\"The Google Workspace Team\" <workspace-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "IMPORTANT: Price change for unfergettabledesigns.com"
+      ]
+    },
+    "flow@pluralsight.com": {
+      "from": "\"Pluralsight Flow\" <flow@pluralsight.com>",
+      "domain": "pluralsight.com",
+      "count": 1,
+      "subjects": [
+        "Put your investment where your strategy is"
+      ]
+    },
+    "mail@venice.ai": {
+      "from": "\"Venice.ai\" <mail@venice.ai>",
+      "domain": "venice.ai",
+      "count": 1,
+      "subjects": [
+        "NEW: TEE and E2EE models on Venice"
+      ]
+    },
+    "applecard@insideapple.apple.com": {
+      "from": "\"Apple Card\" <applecard@insideapple.apple.com>",
+      "domain": "insideapple.apple.com",
+      "count": 1,
+      "subjects": [
+        "Get 5% back at Walgreens."
+      ]
+    },
+    "sarah@socket.dev": {
+      "from": "\"Feross Aboukhadijeh\" <sarah@socket.dev>",
+      "domain": "socket.dev",
+      "count": 1,
+      "subjects": [
+        "Heading to RSA or BSides? Let\u2019s connect."
+      ]
+    },
+    "sc-noreply@google.com": {
+      "from": "\"Google Search Console Team\" <sc-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "New Events structured data issues detected for exploreelko.com"
+      ]
+    },
+    "invoice+statements+acct_1gmoyvec50atc6e2@stripe.com": {
+      "from": "\"Warp\" <invoice+statements+acct_1GmOYVEc50ATC6E2@stripe.com>",
+      "domain": "stripe.com",
+      "count": 1,
+      "subjects": [
+        "Your receipt from Warp #2048-9886"
+      ]
+    },
+    "johncferguson90@gmail.com": {
+      "from": "<johncferguson90@gmail.com>",
+      "domain": "gmail.com",
+      "count": 1,
+      "subjects": [
+        "(No Subject)"
+      ]
+    },
+    "ben@ai.engineer": {
+      "from": "\"AI Engineer Events\" <ben@ai.engineer>",
+      "domain": "ai.engineer",
+      "count": 1,
+      "subjects": [
+        "Subscription Confirmed"
+      ]
+    },
+    "info@sharkeyscutsforkids.com": {
+      "from": "\"Sharkey's Cuts for Kids\" <info@sharkeyscutsforkids.com>",
+      "domain": "sharkeyscutsforkids.com",
+      "count": 1,
+      "subjects": [
+        "\ud83e\udd88New Kids Swim Retail Opportunity for Your Salon (No-Risk Intro Program)"
+      ]
+    },
+    "info@tailscale.com": {
+      "from": "\"Tailscale\" <info@tailscale.com>",
+      "domain": "tailscale.com",
+      "count": 1,
+      "subjects": [
+        "John Ferguson invited you to join Tailscale as an Admin"
+      ]
+    },
+    "contact@snyk.io": {
+      "from": "\"Snyk Team\" <contact@snyk.io>",
+      "domain": "snyk.io",
+      "count": 1,
+      "subjects": [
+        "Don't let your AI agents go rogue. Meet Evo AI-SPM."
+      ]
+    },
+    "zeno@updates.resend.com": {
+      "from": "\"Zeno from Resend\" <zeno@updates.resend.com>",
+      "domain": "updates.resend.com",
+      "count": 1,
+      "subjects": [
+        "Resend CLI, new editor, and agent features"
+      ]
+    },
+    "googlebusinessprofile-noreply@google.com": {
+      "from": "\"Business Profile\" <googlebusinessprofile-noreply@google.com>",
+      "domain": "google.com",
+      "count": 1,
+      "subjects": [
+        "Grow your business with ads that work"
+      ]
+    },
+    "billing@hetzner.com": {
+      "from": "\"Accounting - Hetzner Online GmbH\" <billing@hetzner.com>",
+      "domain": "hetzner.com",
+      "count": 1,
+      "subjects": [
+        "Hetzner Online GmbH - Invoice 080000809484 (K0905275024)"
+      ]
+    },
+    "no-reply-tvuuqef9eppuwz8nk0wmfq@mail.anthropic.com": {
+      "from": "\"Anthropic\" <no-reply-tVuUqEF9Eppuwz8nk0WmfQ@mail.anthropic.com>",
+      "domain": "mail.anthropic.com",
+      "count": 1,
+      "subjects": [
+        "Secure link to log in to Claude.ai |  2026-03-26 08:29:10"
+      ]
+    },
+    "team@ticketspice.com": {
+      "from": "\"Eric Knopf (TicketSpice)\" <team@ticketspice.com> ",
+      "domain": "ticketspice.com",
+      "count": 1,
+      "subjects": [
+        "4 New Features to Boost Engagement"
+      ]
+    },
+    "account@nvidia.com": {
+      "from": "\"NVIDIA Accounts\" <account@nvidia.com>",
+      "domain": "nvidia.com",
+      "count": 1,
+      "subjects": [
+        "NVIDIA Account Created"
+      ]
+    },
+    "noreply-cloud-accounts@nvidia.com": {
+      "from": "<noreply-cloud-accounts@nvidia.com>",
+      "domain": "nvidia.com",
+      "count": 1,
+      "subjects": [
+        "Welcome to NVIDIA Cloud Account!"
+      ]
+    },
+    "noreply@nvidia.com": {
+      "from": "\"NVIDIA Developer Relations\" <noreply@nvidia.com>",
+      "domain": "nvidia.com",
+      "count": 1,
+      "subjects": [
+        "Welcome to the NVIDIA Developer Program"
+      ]
+    },
+    "hello@news.canonical.com": {
+      "from": "\"Canonical | Ubuntu\" <hello@news.canonical.com>",
+      "domain": "news.canonical.com",
+      "count": 1,
+      "subjects": [
+        "A practical guide to building private AI infrastructure"
+      ]
+    },
+    "a.quinn@getpersistiq.org": {
+      "from": "\"Anthony Quinn\" <a.quinn@getpersistiq.org>",
+      "domain": "getpersistiq.org",
+      "count": 1,
+      "subjects": [
+        "Unforgettable Designs new clients"
+      ]
+    },
+    "no-reply_at_news_termius_com_9c8yp2dnxk_0376bf0c@privaterelay.appleid.com": {
+      "from": "\"Termius News\"\r\n <no-reply_at_news_termius_com_9c8yp2dnxk_0376bf0c@privaterelay.appleid.com>",
+      "domain": "privaterelay.appleid.com",
+      "count": 1,
+      "subjects": [
+        "Termius March News: Post-quantum cryptography"
+      ]
+    },
+    "noreply@email.openai.com": {
+      "from": "\"OpenAI\" <noreply@email.openai.com>",
+      "domain": "email.openai.com",
+      "count": 1,
+      "subjects": [
+        "OpenAI Dev News: GPT-5.4, Plugins in Codex, and other fun things"
+      ]
+    },
+    "noreply-ngc@nvidia.com": {
+      "from": "<noreply-ngc@nvidia.com>",
+      "domain": "nvidia.com",
+      "count": 1,
+      "subjects": [
+        "New support role now available for External User Groups"
+      ]
+    },
+    "no_reply@post.applecard.apple": {
+      "from": "\"Apple Card Support\" <no_reply@post.applecard.apple>",
+      "domain": "post.applecard.apple",
+      "count": 1,
+      "subjects": [
+        "Your Apple Card statement is ready"
+      ]
+    },
+    "newsletter@emailfb.freshbooks.com": {
+      "from": "\"Fresh Press by FreshBooks\" <newsletter@emailfb.freshbooks.com>",
+      "domain": "emailfb.freshbooks.com",
+      "count": 1,
+      "subjects": [
+        "April Fools is for jokes, not your tax bill \ud83e\udd21"
+      ]
+    },
+    "b-stock@alerts.bstock.com": {
+      "from": "\"B-Stock\" <b-stock@alerts.bstock.com>",
+      "domain": "alerts.bstock.com",
+      "count": 1,
+      "subjects": [
+        "Updates to our terms of use"
+      ]
+    },
+    "insider@github.com": {
+      "from": "\"GitHub\" <insider@github.com>",
+      "domain": "github.com",
+      "count": 1,
+      "subjects": [
+        "Still refactoring nested callbacks?"
+      ]
+    },
+    "news@nvidia.com": {
+      "from": "\"NVIDIA Developer Relations\" <news@nvidia.com>",
+      "domain": "nvidia.com",
+      "count": 1,
+      "subjects": [
+        "Your Personalized Developer News from NVIDIA"
+      ]
+    },
+    "no-reply@dropbox.com": {
+      "from": "\"Dropbox\" <no-reply@dropbox.com>",
+      "domain": "dropbox.com",
+      "count": 1,
+      "subjects": [
+        "You created a new file request for \"Head Start Personel photos\"!"
+      ]
+    },
+    "michelle@elkocva.com": {
+      "from": "\"Michelle Cromwell\" <michelle@elkocva.com>",
+      "domain": "elkocva.com",
+      "count": 1,
+      "subjects": [
+        "Automatic reply: Explore Elko updates"
+      ]
+    }
+  }
+}
