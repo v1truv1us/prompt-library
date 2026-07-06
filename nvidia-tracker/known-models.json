@@ -126,6 +126,7 @@
   "writer/palmyra-med-70b",
   "writer/palmyra-med-70b-32k",
   "z-ai/glm-5.1",
+  "z-ai/glm-5.2",
   "zhipuai/glm-5.1",
   "zyphra/zamba2-7b-instruct"
 ]
