@@ -67,6 +67,7 @@
   "nvidia/gliner-pii",
   "nvidia/gpt-oss-120b",
   "nvidia/ising-calibration-1-35b-a3b",
+  "nvidia/ising-calibration-1.5-31b",
   "nvidia/llama-3.1-nemoguard-8b-content-safety",
   "nvidia/llama-3.1-nemoguard-8b-topic-control",
   "nvidia/llama-3.1-nemotron-51b-instruct",
