@@ -104,6 +104,7 @@
   "nvidia/nemotron-nano-12b-v2-vl",
   "nvidia/nemotron-nano-3-30b-a3b",
   "nvidia/nemotron-parse",
+  "nvidia/nemotron-parse-2.0",
   "nvidia/neva-22b",
   "nvidia/nv-embed-v1",
   "nvidia/nv-embedcode-7b-v1",
@@ -137,6 +138,7 @@
   "writer/palmyra-med-70b-32k",
   "z-ai/glm-5.1",
   "z-ai/glm-5.2",
+  "z-ai/glm-5.3-flash",
   "zhipuai/glm-5.1",
   "zyphra/zamba2-7b-instruct"
 ]
