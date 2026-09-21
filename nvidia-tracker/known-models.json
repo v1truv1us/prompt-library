@@ -138,6 +138,7 @@
   "writer/palmyra-med-70b-32k",
   "z-ai/glm-5.1",
   "z-ai/glm-5.2",
+  "z-ai/glm-5.3",
   "z-ai/glm-5.3-flash",
   "zhipuai/glm-5.1",
   "zyphra/zamba2-7b-instruct"
